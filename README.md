@@ -44,4 +44,5 @@ From the data set in step 4, creates a second, independent tidy data set with th
 # run_analysis creates two datasets:
 # all_merged.txt - all the merged datasets form the zip file
 # mean_std_data.txt - average over all_merged of each variable for activities and subjects
+# running create_codebook will create a codebook of mean_std_data.txt with summaries and type of all variables.
 
