@@ -116,3 +116,4 @@ mean_sd_data <-
 write.table(mean_sd_data, 
             "mean_sd_data.txt", 
             row.name = FALSE)
+
